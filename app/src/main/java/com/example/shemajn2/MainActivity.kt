@@ -44,7 +44,7 @@ private fun clickOnSave(editText: AppCompatEditText){
             listOfEditText.add(enteredText)
             anagramEditText.setText("")
         }else{
-            if (enteredText.isNotEmpty()){
+            if (enteredText.isEmpty()){
                 showToast(this, "Enter the field")
             }else {
                 showToast(this, "Such text already exist")
