@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShemajN2</string>
+    <string name="enter_anagram">Enter Anagram</string>
+    <string name="save">save</string>
+    <string name="output">output</string>
+    <string name="anagram_count">Anagram Count</string>
+</resources>
